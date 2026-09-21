@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bmyfk.cn/sitemap.xml
